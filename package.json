@@ -1,4 +1,7 @@
 {
+  "name": "abrahan-lobato-ui",
+  "version": "1.0.0",
+  "main": "lib/index.js",
   "dependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.33",
